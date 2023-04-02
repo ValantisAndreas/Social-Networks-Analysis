@@ -3,25 +3,25 @@
 ## Lab 1 - Analysis & Study of Complex Network Topologies
 In the first lab exercise the following are implemented: 
 
-1. The construction and visualization of complex types of networks
+1. Construction and visualization of complex types of networks
 2. Calculation of network metrics: a) clustering coefficient, b) Minimum path length c) Node eccentricity: diameter, radius, circumference, center
-3. Calculating node centrality metrics: degree centrality, closeness centrality, betweenness centrality, Katz centrality, and applying PageRank to a real network (the web-Stanford.txt file is used)
+3. Calculating node centrality metrics: degree centrality, closeness centrality, betweenness centrality, Katz centrality, and applying PageRank to a real network - [web-Stanford](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab1/data_files)
 4. The study of connectivity and robustness of networks
 5. The study of evolutionary network conversion
-6. The study of real networks (the got.txt file is used)
+6. The study of real networks - [GoT](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab1/data_files/got.txt)
 
 ## Lab 2 - Analysis of Social Structure in Artificial and Real Complex Network Topologies
 In the second lab exercise the following are implemented:
 
 ### A. Study of real topologies
 
-* American College Football 
-* Game of Thrones - season 5 
-* email-Eu-core & ground-truth division
+* [American College Football](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab2/data_files/football.gml)
+* [Game of Thrones - season 5](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab2/data_files/got_s5.csv)
+* [email-Eu-core](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab2/data_files/email-Eu-core.txt) & [ground-truth division](https://github.com/ValantisAndreas/Social-Network-Analysis/blob/main/lab2/data_files/email-Eu-core-department-labels.txt)
 
-The node degree distribution and average degree of each topology.
-The node clustering factor distribution and the average clustering factor of each topology.
-The closeness centrality distribution and mean closeness centrality of each topology.
+Node degree distribution and average degree of each topology.
+Node clustering factor distribution and the average clustering factor of each topology.
+Closeness centrality distribution and mean closeness centrality of each topology.
 
 ### B. Familiarity with community detection tools
 
@@ -37,4 +37,4 @@ The closeness centrality distribution and mean closeness centrality of each topo
  3. Link prediction based on similarity-based metrics
  4. Link prediction with embedding based on random walks (Random Walks)
  
- The Similarities dataset (DBpedia) is used.
+ The Similarities dataset [DBpedia](https://github.com/ValantisAndreas/Social-Network-Analysis/tree/main/lab3/data_files) is used.
