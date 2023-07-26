@@ -1,4 +1,4 @@
-# Social-Network-Analysis
+# Social-Networks-Analysis
 
 ## Lab 1 - Analysis & Study of Complex Network Topologies
 In the first lab exercise the following are implemented: 
